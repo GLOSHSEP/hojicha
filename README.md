@@ -32,3 +32,5 @@ You may use any code in this repo but you must:
 * Tell me (because I'm nosy)
 * Not use any code for commercial purposes
 * Make the source code for your project available
+* Bow down to richard stallman and open source projects
+* Stop using windows since FUCK BILL GATES
